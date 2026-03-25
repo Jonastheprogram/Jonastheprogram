@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Atualmente formado em Análise e Desenvolvimento de Sistemas pela FIAP. Tenho grande interesse  por desenvolvimento de software, estou em busca da minha primeira oportunidade profissional na área. No meu tempo livre gosto de praticar musculação, jogar jogos online, assistir filmes e séries.</p>
+<p align="left">Atualmente formado em Análise e Desenvolvimento de Sistemas pela FIAP. Tenho grande interesse  por desenvolvimento de software especialmente em back end. Estou em busca da minha primeira oportunidade profissional na área.</p>
 
 ###
 
